@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MoreClarity
+- 👋 Hi, I’m Ryan Hodgson
 - 👀 I’m interested in Networking, Cybersecurity & Programming
 - 🌱 I’m currently learning all 3 ^
 - 💞️ I’m looking to collaborate on more open source software projects
